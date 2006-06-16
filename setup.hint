@@ -1,0 +1,4 @@
+category: X11
+requires: cygwin libfontenc1 libfreetype26
+sdesc: "Xorg bitmap font to TrueType font wrapper"
+ldesc: "Xorg bitmap font to TrueType font wrapper"
