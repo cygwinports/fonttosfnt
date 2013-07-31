@@ -1,4 +1,0 @@
-category: X11
-requires: libfontenc1 libfreetype26
-sdesc: "X.Org bitmap font to TrueType font wrapper"
-ldesc: "X.Org bitmap font to TrueType font wrapper"

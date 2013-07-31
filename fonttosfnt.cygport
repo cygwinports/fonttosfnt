@@ -1,0 +1,9 @@
+inherit xorg
+
+NAME="fonttosfnt"
+VERSION=1.0.4
+RELEASE=1
+CATEGORY="X11"
+SUMMARY="Wraps X bitmap fonts in TTF/OTF wrapper"
+DESCRIPTION="Wraps a bitmap font or a set of bitmap fonts in a sfnt (TrueType
+or OpenType) wrapper."
